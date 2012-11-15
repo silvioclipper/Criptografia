@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1352361200 source:/home/kobra/Proyectos/Cripto/rsa.cpp
+	"rsa.h"
+
+1352361123 /home/kobra/Proyectos/Cripto/rsa.h
+	"funciones.h"
+
+1352361054 source:/home/kobra/Proyectos/Cripto/main.cpp
+	<iostream>
+	"funciones.h"
+	"rsa.h"
+
+1352361040 /home/kobra/Proyectos/Cripto/funciones.h
+	<vector>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1352344121 source:/home/kobra/Proyectos/Cripto/funciones.cpp
+	"funciones.h"
+
+1352393974 source:/home/labg13/Downloads/Cripto-master/funciones.cpp
+	"funciones.h"
+
+1352361316 /home/labg13/Downloads/Cripto-master/funciones.h
+	<vector>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1352400123 source:/home/labg13/Downloads/Cripto-master/main.cpp
+	<iostream>
+	"funciones.h"
+	"rsa.h"
+
+1352398886 /home/labg13/Downloads/Cripto-master/rsa.h
+	"funciones.h"
+
+1352399832 source:/home/labg13/Downloads/Cripto-master/rsa.cpp
+	"rsa.h"
+
+1352393974 source:/home/kobra/Proyectos/Criptografia/funciones.cpp
+	"funciones.h"
+
+1352361316 /home/kobra/Proyectos/Criptografia/funciones.h
+	<vector>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1352966650 source:/home/kobra/Proyectos/Criptografia/main.cpp
+	<iostream>
+	"rsa.h"
+
+1352962865 /home/kobra/Proyectos/Criptografia/rsa.h
+	"functions.h"
+
+1352966692 source:/home/kobra/Proyectos/Criptografia/rsa.cpp
+	"rsa.h"
+
+1352962701 /home/kobra/Proyectos/Criptografia/functions.h
+	<vector>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1352966668 source:/home/kobra/Proyectos/Criptografia/functions.cpp
+	"functions.h"
+

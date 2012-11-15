@@ -1,0 +1,10 @@
+p: 46807
+q: 57269
+e: 59197
+n: 2680590083
+phi: 2680486008
+d: 2120453389
+
+2539979419 58511 rosario.garifa@ucsp.edu.pe
+1258978945 45896 joshua.rosas@ucsp.edu.pe
+7070521123 91397 anthony.loayza@ucsp.edu.pe
